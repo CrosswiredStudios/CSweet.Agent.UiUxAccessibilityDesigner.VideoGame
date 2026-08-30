@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame.csproj" />
+  <Project Path="tests/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame.Tests/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame.Tests.csproj" />
+</Solution>
