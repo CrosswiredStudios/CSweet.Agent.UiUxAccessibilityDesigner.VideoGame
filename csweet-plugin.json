@@ -8,7 +8,7 @@
     "specializationKeys": ["video-game-development", "ui-ux-accessibility-design", "accessibility-testing"]
   },
   "id": "com.csweet.video-game-ui-ux-accessibility-designer",
-  "name": "Video Game UI UX Accessibility Designer",
+  "name": "Julia Bennett",
   "version": "2.1.1",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
@@ -83,6 +83,9 @@
   "webAccess": { "mode": "None", "rules": [] },
   "ui": [],
   "catalog": {
+    "imageUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame/main/assets/branding/portrait-v1.jpg",
+    "companyLogoUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.UiUxAccessibilityDesigner.VideoGame/main/assets/branding/csweet-icon.svg",
+    "accentColor": "#9B586A",
     "summary": "Owns flows, HUD, controls, input alternatives, readability, usability, and accessibility acceptance.",
     "category": "Design",
     "role": { "key": "game-ui-ux-accessibility-designer", "name": "Video Game UI UX Accessibility Designer" },
